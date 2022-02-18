@@ -2,9 +2,12 @@ RENCANA LATIHAN RIFKI
 
 - Javascript
   * ES6
-   ~ Fetch Api
-  * Framework JS
-   ~ Angular
-   ~ vue
-- PHP Frameworkk
-  *Laravel
+   ~ arrow function
+  * Framework js
+   ~ React js
+   ~ Node js
+- Struktur Data dasar
+   *Array
+- PHP Frameworks
+
+
