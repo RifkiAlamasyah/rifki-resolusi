@@ -1,6 +1,7 @@
 RENCANA LATIHAN RIFKI
 
 - Javascript
+  * ES6
 - PHP Frameworks
 - React JS
 - Node JS
