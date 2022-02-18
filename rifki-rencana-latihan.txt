@@ -2,6 +2,7 @@ RENCANA LATIHAN RIFKI
 
 - Javascript
   * ES6
+- Struktur Data dasar
 - PHP Frameworks
 - React JS
 - Node JS
