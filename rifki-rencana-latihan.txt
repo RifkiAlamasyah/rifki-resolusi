@@ -1,0 +1,6 @@
+RENCANA LATIHAN RIFKI
+
+- Javascript
+- PHP Frameworks
+- React JS
+- Node JS
