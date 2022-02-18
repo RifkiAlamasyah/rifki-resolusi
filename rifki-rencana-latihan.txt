@@ -2,7 +2,11 @@ RENCANA LATIHAN RIFKI
 
 - Javascript
   * ES6
+   ~ arrow function
+  * Framework js
+   ~ React js
+   ~ Node js
 - Struktur Data dasar
+   *Array
 - PHP Frameworks
-- React JS
-- Node JS
+
